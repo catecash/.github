@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/catecash/.github/main/assets/catecash-banner.webp" alt="Catecash illustrated banknote banner with a smiling cat" width="100%">
   </a>
 
-  <h1>Doge to Cate. Now add privacy.</h1>
+  <h1>doge &lt; *catecash* &gt; coin</h1>
 
   <p><strong>A proposed fair-launch digital currency built for open participation, continuing mining, and privacy.</strong></p>
 
