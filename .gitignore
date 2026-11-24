@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+*.env
+*.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+build/
+dist/
+node_modules/

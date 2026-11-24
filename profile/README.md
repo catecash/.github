@@ -37,7 +37,7 @@ Catecash aims to pair Dogecoin-inspired ongoing miner rewards with Equihash proo
 | --- | --- |
 | Proof of work | Equihash |
 | Block time | 25 seconds |
-| Block reward | 5,000 CASH per publicly mineable block |
+| Block reward | 5,000 CATE per publicly mineable block |
 | Supply | Continuing issuance; no fixed maximum |
 | Premine and founder/team allocation | None planned |
 | Privacy | Zcash feature parity, including shielded transactions |
