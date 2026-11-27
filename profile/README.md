@@ -12,6 +12,8 @@
     &nbsp; · &nbsp;
     <a href="https://github.com/catecash/zebra">Explore the development fork</a>
     &nbsp; · &nbsp;
+    <a href="https://github.com/catecash/.github/blob/main/PROJECT-PLAN.md">Project plan</a>
+    &nbsp; · &nbsp;
     <a href="https://x.com/catecash">Follow on X</a>
   </p>
 </div>
